@@ -1,0 +1,55 @@
+.m1{
+    position: absolute;
+    bottom: 450px;
+    left: 950px;
+    width: 350px;
+    height: 300px;
+    border-radius: 20%;
+    object-fit: cover;
+    border: solid;
+}
+.m2{
+    position: absolute;
+    bottom: -10px;
+    left: 950px;
+    width: 350px;
+    height: 300px;
+    border-radius: 20%;
+    object-fit: cover;
+    border: solid;
+}
+.contenido{
+    display: flex;
+    margin: 70px;
+}
+.articulos{
+    width: 90%;
+
+}
+.secciones{
+     display: flex; 
+    align-items: center;
+    padding: 90px;
+}
+.contenido1{
+    display: flex;
+    margin: 70px;
+}
+.articulos2{
+    width: 90%;
+
+}
+.secciones3{
+     display: flex; 
+    align-items: center;
+    padding: 90px;
+}
+.a12{
+    background-color: rgb(31, 30, 29);
+    display: inline-block;
+    color: aliceblue;
+    text-decoration: none;
+    font-family: arial;
+    padding: 20px 50px;
+    border-radius: 50px;
+}
